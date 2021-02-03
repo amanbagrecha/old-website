@@ -1,7 +1,8 @@
 # My personal website
 
 ## Projects
-- Atharva canoe
+- Atharva 
+- Research paper
 
 ## Education
 - Schooling: Nandi International School
