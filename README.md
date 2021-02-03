@@ -1,7 +1,7 @@
 # My personal website
-<!-- Personal website -->
 
-
+## Projects
+- Atharva canoe
 
 ## Education
 - Schooling: Nandi International School
